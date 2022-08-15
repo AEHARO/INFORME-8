@@ -3,6 +3,9 @@
 
 1. OBJETIVOS
 
+•	Analizar los temas comprendidos entre los capítulos 15 y 16 del libro Principios de Circuitos Eléctricos utilizando mapas mentales y resúmenes para una posterior resolución de los ejercicios planteados.
+
+
 ◆ Usar números complejos para expresar cantidades
 fasoriales
 
