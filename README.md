@@ -55,9 +55,22 @@ circuito RC en paralelo
 
 5. CONCLUSIONES
 
+•	A mayor voltaje es la constante de descarga del condensador, ya que ambos presentan una relación directamente proporcional
+
+
+•	Los circuitos requieren una fuente que los alimente para mantener su corriente circulando , 
+si son desconectados de esta , empiezan a descargarse hasta llegar a 0
+
+
+•	Los circuitos RC Y RL son similares se diferencian principalmente por que la respuesta de fase son opuestas ,la reactancia inductiva se incrementa con la frecuencia, en tanto que la reactancia capacitiva disminuye con la frecuencia 
+
 
 6. BIBLIOGRAFÍA
 
+Rodó, P. (2021, 2 marzo). Números complejos. Economipedia. Recuperado 12 de agosto de 2022, de https://economipedia.com/definiciones/numeros-complejos.html#:%7E:text=Los%20n%C3%BAmeros%20complejos%20son%20combinaciones,real%20y%20una%20parte%20imaginaria.
+
+
+Gómez, F. P. I. Y. (2019, 29 junio). Números complejos: definición y operaciones [Guía completa con ejemplos]. Álgebra y Geometría Analítica. Recuperado 12 de agosto de 2022, de https://aga.frba.utn.edu.ar/definicion-y-operaciones-de-numeros-complejos-en-forma-binomica/
 
 
 
