@@ -51,6 +51,24 @@ circuito RC en paralelo
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![image](https://user-images.githubusercontent.com/105679480/186654080-7e9f4dab-cd5b-488f-8deb-6aaf99eb002d.png)
+![image](https://user-images.githubusercontent.com/105679480/186654166-ea4d2d5e-5e54-4ece-bead-45d93a7a66dc.png)
+![image](https://user-images.githubusercontent.com/105679480/186654213-e522e355-1912-435e-a8c1-5b75e1e06b7b.png)
+![image](https://user-images.githubusercontent.com/105679480/186654278-4d2700eb-eb07-47c6-8463-4a3644a32635.png)
+![image](https://user-images.githubusercontent.com/105679480/186654312-61f198bb-0639-40bb-bcd5-96eacc3f7e66.png)
+![image](https://user-images.githubusercontent.com/105679480/186654368-a68ec498-9f8a-43f4-a75d-5e43e73846a1.png)
+![image](https://user-images.githubusercontent.com/105679480/186654438-0b0e1a60-81a4-440d-841f-3b9cb84d3d51.png)
+![image](https://user-images.githubusercontent.com/105679480/186654494-65a2b559-a208-43d2-aa34-eb71787dcd82.png)
+![image](https://user-images.githubusercontent.com/105679480/186654562-bd2a2523-1ecb-4b2e-9d59-66fa04b2b593.png)
+![image](https://user-images.githubusercontent.com/105679480/186654619-0116c351-8a75-4787-b319-9c97b26f5584.png)
+![image](https://user-images.githubusercontent.com/105679480/186654675-f6776812-1037-438d-8665-99e9d62db37b.png)
+![image](https://user-images.githubusercontent.com/105679480/186654722-2904e292-4842-449c-baf1-7f30455b3548.png)
+![image](https://user-images.githubusercontent.com/105679480/186654777-3652a2ea-09d7-4c0b-a76d-3494a1c493b1.png)
+![image](https://user-images.githubusercontent.com/105679480/186654855-fd3a331f-dbe9-4f22-836f-16a5de4ab524.png)
+![image](https://user-images.githubusercontent.com/105679480/186654896-18887012-067b-4b6c-baad-f006e4073dfb.png)
+![image](https://user-images.githubusercontent.com/105679480/186654956-340861ff-4391-48e4-9ed5-b3683b614b33.png)
+
+
 
 4. VIDEO
 
